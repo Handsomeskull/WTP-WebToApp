@@ -25,3 +25,15 @@ This tool allows you to create applications as website shortcuts for you, you ca
 1- Login entries in Webview are NOT KEPT (That is, every time you open and close the shortcut, it starts again, I'm working on it, use it on sites that you occasionally enter or do not have to log in)
 
 2- In rare cases, shortcuts may disappear on their own
+
+
+# installation
+
+Just clone the repo and:
+"
+https://github.com/Handsomeskull/WTP-WebToApp.git
+cd WTP
+python webtoapp.py
+"
+Done!
+If you want to contribute to the project or have any suggestions, don't hesitate to let me know! Peace!
