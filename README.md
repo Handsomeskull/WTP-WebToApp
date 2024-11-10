@@ -35,5 +35,10 @@ cd WTP
 python webtoapp.py
 ```
 That's it! 🎉
+
 🤝 Contribute
+
 Feel free to reach out with ideas or improvement! Peace!
+
+License: GPL-3.0
+Crafted with ❤️ by Handsomeskull
