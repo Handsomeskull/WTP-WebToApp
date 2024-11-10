@@ -16,6 +16,10 @@ Hey there! Meet the tool that turns your favorite websites into desktop shortcut
 - **Focus Mode**: Stay distraction-free with Webview.
 - **Wide Compatibility**: Works where PWAs don't.
 
+## 🐧 Linux Only
+
+Currently, this tool is available for Linux. Support for Windows might come in the future👀
+
 ## 🐞 Known Issues
 
 - **Login Persistence**: Webview doesn't save login sessions. Use for occasional access or sites without login needs.
