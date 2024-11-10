@@ -29,8 +29,7 @@ Clone the repo and start creating shortcuts:
 git clone https://github.com/Handsomeskull/WTP-WebToApp.git
 cd WTP
 python webtoapp.py
-
+```
 That's it! 🎉
 🤝 Contribute
-
-Feel free to reach out with ideas or improvements. Let's make web access smoother together!
+Feel free to reach out with ideas or improvement! Peace!
