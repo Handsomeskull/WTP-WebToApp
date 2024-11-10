@@ -18,7 +18,7 @@ Hey there! Meet the tool that turns your favorite websites into desktop shortcut
 
 ## 🐧 Linux Only
 
-Currently, this tool is available for Linux. Support for Windows might come in the future👀
+Currently, this tool is available for Linux. Support for Windows might come in the future 👀
 
 ## 🐞 Known Issues
 
