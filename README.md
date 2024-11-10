@@ -1,39 +1,36 @@
-# WTP-WebToApp
-This tool allows you to create applications as website shortcuts for you, you can create shortcuts either in webview or in OIB (Open-in-browser) mode
+# 🌟 WTP-WebToApp
 
-# Specifications:
-1-) Shortcuts created on Desktop
+Hey there! Meet the tool that turns your favorite websites into desktop shortcuts. Use either **Webview** or **Open-in-Browser (OIB)** mode to create app-like experiences.
 
-2-) Custom name and shortcut icon
+## 🚀 Features
 
-3-) Feels like a local app in webview mode
+- **Desktop Shortcuts**: Access websites with a single click.
+- **Customizable**: Choose your own name and icon.
+- **Local App Feel**: Enjoy a native app experience in webview mode.
+- **Flexible Modes**: Switch between Webview and OIB modes.
 
-4-) You have two mods to use
+## ❓ Why WTP-WebToApp?
 
-(I couldn't think of any others :D)
+- **Quick Access**: Reach sites without opening a browser.
+- **Easy Navigation**: No need to type URLs—just click!
+- **Focus Mode**: Stay distraction-free with Webview.
+- **Wide Compatibility**: Works where PWAs don't.
 
-# Why?
-1- Quickly access the sites you want without entering the browser
+## 🐞 Known Issues
 
-2- Quickly access the sites you want without writing the name of the website
+- **Login Persistence**: Webview doesn't save login sessions. Use for occasional access or sites without login needs.
+- **Shortcut Stability**: Rarely, shortcuts may disappear.
 
-3- No distraction in Webview mode (other materials of the browser)
+## 🛠️ Installation
 
-4- PWA does not work on all sites
+Clone the repo and start creating shortcuts:
 
-# Bugs
-1- Login entries in Webview are NOT KEPT (That is, every time you open and close the shortcut, it starts again, I'm working on it, use it on sites that you occasionally enter or do not have to log in)
-
-2- In rare cases, shortcuts may disappear on their own
-
-
-# installation
-
-Just clone the repo and:
-"
-https://github.com/Handsomeskull/WTP-WebToApp.git
+```bash
+git clone https://github.com/Handsomeskull/WTP-WebToApp.git
 cd WTP
 python webtoapp.py
-"
-Done!
-If you want to contribute to the project or have any suggestions, don't hesitate to let me know! Peace!
+
+That's it! 🎉
+🤝 Contribute
+
+Feel free to reach out with ideas or improvements. Let's make web access smoother together!
